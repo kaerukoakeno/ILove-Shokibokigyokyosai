@@ -17,7 +17,7 @@ review_version: 5.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: ReVIEW-Template
+bookname: 小規模企業共済を全力でやってきたけど満足してる
 # 記述言語。省略した場合はja
 language: ja
 
