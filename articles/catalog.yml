@@ -9,5 +9,5 @@ CHAPS:
 APPENDIX:
 
 POSTDEF:
-  - ostscript.re
+  - postscript.re
   - contributors.re
