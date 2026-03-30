@@ -9,5 +9,5 @@ CHAPS:
 APPENDIX:
 
 POSTDEF:
-# 執筆者一覧
+  - ostscript.re
   - contributors.re
